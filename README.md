@@ -1,1 +1,1 @@
-# ICSIA
+# String Orchestra Attendance App
